@@ -1,0 +1,7 @@
+# first_number = int(input("Please Enter First Number "))
+# second_number = int(input("Please Enter Second Number "))
+# total = str(first_number + second_number)
+# print("Total is " + total)
+# first = int(5)
+# second = float(17)
+# print(first + second)

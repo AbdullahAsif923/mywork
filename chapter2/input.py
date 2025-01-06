@@ -1,0 +1,7 @@
+# name = input("Please Enter Your Name:")
+# # print("Your Name Is" + name)
+# age = input("Please Enter Your Age:")
+# print("My Name Is " + name + " And My Age Is " + age)
+# name , age = str(input("Please Enter Your Name ")), str(input("Please Enter Your Age "))
+name , age = input("Enter Your Name And Age ").split(",")
+print("Your Name Is " + name + " Your Age Is " + age)
